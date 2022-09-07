@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    margin: auto;
+    background-image: ;
+}
+
+.container {
+    background-color: grey;
+    height: 500px;
+}
+
+.bg-img {
+    justify-content: space-between;
+    margin: auto;
+}
